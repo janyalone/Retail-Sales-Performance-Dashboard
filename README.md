@@ -53,3 +53,6 @@ Repeat Purchase Behavior Analysis
 Best-selling products
 Low-selling products
 Contribution to revenue
+
+![Sales Overview](Images/sales_overview.png)
+![Customer Insights](Images/customer_insights.png)
