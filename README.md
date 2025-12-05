@@ -54,5 +54,13 @@ Best-selling products
 Low-selling products
 Contribution to revenue
 
+## 📸 Dashboard Screenshots
+
+### 🟦 Sales Overview
 ![Sales Overview](Images/sales_overview.png)
+
+### 🟩 Customer Insights
 ![Customer Insights](Images/customer_insights.png)
+
+### 🟧 Product Performance
+![Product Performance](Images/product_performance.png)
