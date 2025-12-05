@@ -20,8 +20,6 @@ How many new vs. repeat customers are we getting?
 What customer segments drive the highest order value?
 What would happen if discounts were increased or decreased?
 
-Can we forecast future sales accurately?
-This dashboard provides clear answers using interactive charts and DAX-powered measures.
 🧹 Data Cleaning & Transformation (Power Query)
 
 Power Query was used to:
@@ -34,6 +32,7 @@ Merge customer and orders tables
 Handle missing values
 Add custom calculated columns
 📊 Dashboard Features
+
 ✔ 1. Sales Overview Page
 Total Sales
 Total Orders
